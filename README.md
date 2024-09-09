@@ -15,6 +15,6 @@ An image forensics utility to detect digital modifications using ELA, inspired b
 
 # Examples
 Unmodified:  
-![Unmodified](https://i.ibb.co/TKS46Ts/Unmodified.png)
+![Unmodified](https://i.ibb.co/TKS46Ts/Unmodified.png)  
 Modified:  
 ![Modified](https://i.ibb.co/JzNfJQX/Modified.png)
