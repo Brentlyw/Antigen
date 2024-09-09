@@ -14,7 +14,7 @@ An image forensics utility to detect digital modifications using ELA, inspired b
 -   2b.) Areas highlighted in the heatmap show high probability areas of modification.
 
 # Examples
-Unmodified:
-![Unmodified](https://i.ibb.co/kXBjy4w/Unmodified.png)
+Unmodified:  
+![Unmodified](https://i.ibb.co/TKS46Ts/Unmodified.png)
 Modified:
-![Modified](https://i.ibb.co/fqXTtqM/Modified.png)
+![Modified](https://i.ibb.co/JzNfJQX/Modified.png)
