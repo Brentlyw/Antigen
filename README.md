@@ -1,5 +1,5 @@
 # Antigen
-An image forensics utility to detect digital modifications using ELA, inspired by FotoForensics.
+An image forensics utility to detect and visualize digital modifications using ELA, inspired by FotoForensics.
 
 # Features
 - Displays Original, ELA Highlighted image, and ELA heatmap.
@@ -13,8 +13,4 @@ An image forensics utility to detect digital modifications using ELA, inspired b
 -   2a.) Areas highlighted in lighter colored pixels compared to the surroundings are more than likely modified.
 -   2b.) Areas highlighted in the heatmap show high probability areas of modification.
 
-# Examples
-Unmodified:  
-![Unmodified](https://i.ibb.co/BCCgPx1/Unmodified.jpg)  
-Modified:  
-![Modified](https://i.ibb.co/j5f9ngz/Modified.jpg)
+
