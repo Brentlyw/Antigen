@@ -4,7 +4,7 @@ An image forensics utility to detect and visualize digital modifications using E
 # Features
 - Displays Original, ELA Highlighted image, and ELA heatmap.
 - Includes adjustable sliders for ELA amplification, heatmap intensity, and threshold.
-- Has a minimum blob creation threshold of 5 connected pixels > the heatmap threshold. (Counteracts ELA flagging on edges of objects that have high/low lum values)
+- Has a minimum blob creation threshold of 5 connected pixels > the heatmap threshold. (Counteracts ELA flagging on edges that have strong luminance disparity)
 - Effecient and quick, even with large/high res images.
 
 # How To Use?
