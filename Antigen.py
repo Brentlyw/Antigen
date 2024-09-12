@@ -6,6 +6,8 @@ from scipy.ndimage import gaussian_filter, label, sum as ndi_sum
 from matplotlib.widgets import Slider
 
 def getELA(img, qual=90, amp=40):
+    if img.mode == 'RGBA':
+        img = img.convert('RGB')
     tmp = "tmp.jpg"
     img.save(tmp, "JPEG", quality=qual)
     compressed = Image.open(tmp)
